@@ -1,0 +1,18 @@
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 main
+INFO: Задан изначальный массив
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 printArr
+INFO: Массив напечатан
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 bubbleSort
+INFO: Итерация № 0
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 bubbleSort
+INFO: Итерация № 1
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 bubbleSort
+INFO: Итерация № 2
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 bubbleSort
+INFO: Итерация № 3
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 bubbleSort
+INFO: Итерация № 4
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 main
+INFO: Получен отсортированный массив
+янв. 25, 2023 11:27:58 PM S2_HW.Task2 printArr
+INFO: Массив напечатан

@@ -1,0 +1,8 @@
+янв. 28, 2023 12:34:20 AM S2_HW.calculator_ver2 main
+INFO: Пользователь ввел число: 5
+янв. 28, 2023 12:34:21 AM S2_HW.calculator_ver2 main
+INFO: Пользователь ввел число: 5
+янв. 28, 2023 12:34:23 AM S2_HW.calculator_ver2 main
+INFO: Пользователь ввел операцию: -
+янв. 28, 2023 12:34:23 AM S2_HW.calculator_ver2 main
+INFO: Результат: 0
